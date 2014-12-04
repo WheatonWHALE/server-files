@@ -4,6 +4,7 @@
      * Port: 25565 (the default one for minecraft)
      * Setup: Download (e.g. via `wget`) the minecraft server files (from the [official site](https://minecraft.net/download)) and run the server file using the pre-written bash script [`start.sh`](minecraft/start.sh) (found in this repo, has to be copied over into minecraft server folder).
          - Note: Make sure to update version of minecraft in the bash file to the version of minecraft downloaded (just match the two file names).
+
  + Web Server (/srv/whale_site/):
  + Staging Web Server (/srv/staging_whale_site/):
  + Ventrillo (/srv/ventsrv/):
